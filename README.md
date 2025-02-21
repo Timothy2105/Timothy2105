@@ -1,9 +1,9 @@
 ### Hi, I'm Timothy!
 <img alt="Timothy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothy2105&show_icons=true&theme=github_dark&" align="right">
 
-I am a Computer Science and Management Science & Engineering undergraduate at Stanford University. I plan to further my studies in AI and software development through research, tinkering with personal ideas, and collaborating with passionate students of various fields. 
+I am a Computer Science and Management Science & Engineering undergraduate at Stanford University. I plan to further my studies in AI and software development through research, tinkering with personal ideas, and collaborating with amazing people who are just as passionate about tech as I am! 
 
-I am currently the lead developer working with visual artists and programmers for Stanford's leading dining hall app, StanFood, with React Native. I also was the sole developer for the Lisa's Kitchen website, a local Chinese restaurant in Boca Raton, Florida.  I have prior experience developing video games and collaborating with several graphic artists, as well as developing several AI programs from generic solvers for games to using NLP for video search engines. 
+For the next few months, I'll be working on a project that builds on Theia, the project that uses ESP32 WiFi signals to ping people through walls. I'm also concurrently working on a simple LLM project that integrates modern transformers, as well as other small projects. Keep an eye out for more updates!
 
 <hr>
 
