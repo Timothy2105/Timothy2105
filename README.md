@@ -1,14 +1,14 @@
 ### Hi, I'm Timothy!
 <img alt="Timothy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=timothy2105&show_icons=true&theme=github_dark&" align="right">
 
-I am a Computer Science and Management Science & Engineering undergraduate at Stanford University. I love building and making things in AI and robotics through my research, personal projects, and collaborating with amazing people who are just as passionate about tech as I am! 
+I am a Computer Science and Management Science & Engineering undergraduate at Stanford University. I love building things. Whether it be tables, websites, or robots, I love the process of just working through problems, reading documentation, getting all the details right, and collaborating with people who are as passionate about building as I am! 
 
 #### Current Projects:
-- The next iteration of TidyBot @ Stanford IPRL
+- Robotic manipulation and dexterous tactile sensing @ Stanford IPRL
 - Ambient light sensor imaging @ MIT CSAIL
 - Molecular dynamics in Tau @ Stanford Medicine
 
-I'm always working on side-projects, so keep an eye out for more updates!
+Check out my pinned repositories if you're curious about my past projects. I'm always working on side-projects, so keep an eye out!
 
 <hr>
 
